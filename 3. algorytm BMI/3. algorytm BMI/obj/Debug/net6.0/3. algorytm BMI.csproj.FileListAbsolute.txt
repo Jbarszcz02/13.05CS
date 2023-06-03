@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\bin\Debug\net6.0\3. algorytm BMI.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\bin\Debug\net6.0\3. algorytm BMI.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\bin\Debug\net6.0\3. algorytm BMI.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\bin\Debug\net6.0\3. algorytm BMI.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\bin\Debug\net6.0\3. algorytm BMI.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\refint\3. algorytm BMI.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\3. algorytm BMI.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\3. algorytm BMI\3. algorytm BMI\obj\Debug\net6.0\ref\3. algorytm BMI.dll

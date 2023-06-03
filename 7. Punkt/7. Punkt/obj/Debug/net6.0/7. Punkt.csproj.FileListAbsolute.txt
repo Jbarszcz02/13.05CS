@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\bin\Debug\net6.0\7. Punkt.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\bin\Debug\net6.0\7. Punkt.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\bin\Debug\net6.0\7. Punkt.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\bin\Debug\net6.0\7. Punkt.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\bin\Debug\net6.0\7. Punkt.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\refint\7. Punkt.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\7. Punkt.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\7. Punkt\7. Punkt\obj\Debug\net6.0\ref\7. Punkt.dll

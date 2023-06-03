@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\bin\Debug\net6.0\6. Boki trójkąta.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\bin\Debug\net6.0\6. Boki trójkąta.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\bin\Debug\net6.0\6. Boki trójkąta.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\bin\Debug\net6.0\6. Boki trójkąta.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\bin\Debug\net6.0\6. Boki trójkąta.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\refint\6. Boki trójkąta.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\6. Boki trójkąta.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\6. Boki trójkąta\6. Boki trójkąta\obj\Debug\net6.0\ref\6. Boki trójkąta.dll

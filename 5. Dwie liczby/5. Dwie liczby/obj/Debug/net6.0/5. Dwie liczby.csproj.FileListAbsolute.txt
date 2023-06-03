@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\bin\Debug\net6.0\5. Dwie liczby.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\bin\Debug\net6.0\5. Dwie liczby.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\bin\Debug\net6.0\5. Dwie liczby.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\bin\Debug\net6.0\5. Dwie liczby.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\bin\Debug\net6.0\5. Dwie liczby.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\refint\5. Dwie liczby.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\5. Dwie liczby.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\5. Dwie liczby\5. Dwie liczby\obj\Debug\net6.0\ref\5. Dwie liczby.dll

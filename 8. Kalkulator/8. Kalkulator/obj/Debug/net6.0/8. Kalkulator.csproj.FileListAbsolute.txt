@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\bin\Debug\net6.0\8. Kalkulator.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\bin\Debug\net6.0\8. Kalkulator.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\bin\Debug\net6.0\8. Kalkulator.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\bin\Debug\net6.0\8. Kalkulator.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\bin\Debug\net6.0\8. Kalkulator.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\refint\8. Kalkulator.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\8. Kalkulator.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\8. Kalkulator\8. Kalkulator\obj\Debug\net6.0\ref\8. Kalkulator.dll

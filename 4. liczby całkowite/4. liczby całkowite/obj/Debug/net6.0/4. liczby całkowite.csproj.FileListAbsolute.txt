@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\bin\Debug\net6.0\4. liczby całkowite.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\bin\Debug\net6.0\4. liczby całkowite.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\bin\Debug\net6.0\4. liczby całkowite.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\bin\Debug\net6.0\4. liczby całkowite.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\bin\Debug\net6.0\4. liczby całkowite.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\refint\4. liczby całkowite.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\4. liczby całkowite.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 3.06\4. liczby całkowite\4. liczby całkowite\obj\Debug\net6.0\ref\4. liczby całkowite.dll
